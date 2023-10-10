@@ -197,7 +197,7 @@ public class UICoffeeMenu extends javax.swing.JFrame {
         getContentPane().add(btnHit, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 370, 130, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/Dark Black Rustic Chalkboard Texture Cafe Menu.png"))); // NOI18N
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 390, 480));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, 480));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
